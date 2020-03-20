@@ -21,7 +21,7 @@ PORTION_1 = {
     label: "Phylum",
     sub_category: {
       label: "Class",
-      sub_category{
+      sub_category: {
         label: "Order",
       }
     }
