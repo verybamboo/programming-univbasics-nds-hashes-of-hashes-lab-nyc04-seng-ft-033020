@@ -13,6 +13,7 @@ PORTION_1 = {
     }
   }
 }
+PORTION_1[:Kingdom][:Phylum][:Class]
  
 # 
  PORTION_2 = {
