@@ -4,16 +4,18 @@
 #
 # The tests will guide your construction.
 #
-PORTION_1 = {
-  label: "Kingdom",
-  sub_category: {
-  label: "Phylum",
-  sub_category: {
-  label: "Class",
+def naming_portion1
+  PORTION_1 = {
+    label: "Kingdom",
+    sub_category: {
+    label: "Phylum",
+    sub_category: {
+    label: "Class",
+      }
     }
   }
-}
-PORTION_1
+end
+naming_portion1
  
 # 
  PORTION_2 = {
