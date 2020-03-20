@@ -26,7 +26,6 @@ PORTION_1 = {
       }
     }
   }
-  PORTION_2
 }
 # 
 # PORTION_3 = {
