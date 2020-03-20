@@ -4,32 +4,20 @@
 #
 # The tests will guide your construction.
 #
-def naming_portion1
-  PORTION_1 = {
-    label: "Kingdom",
-    sub_category: {
-    label: "Phylum",
-    sub_category: {
-    label: "Class",
-      }
-    }
-  }
-end
-naming_portion1
+#PORTION_1 = {
+#  label: "Kingdom",
+#  sub_category: {
+# label: "Phylum",
+#  sub_category: {
+#  label: "Class"
+#    }
+#  }
+#}
  
 # 
- PORTION_2 = {
-  label: "Kingdom",
-  sub_category: {
-    label: "Phylum",
-    sub_category: {
-      label: "Class",
-      sub_category: {
-        label: "Order",
-      }
-    }
-  }
-}
+# PORTION_2 = {
+#   label: "Order"
+# }
 # 
 # PORTION_3 = {
 #   label: "Family",
